@@ -6,6 +6,6 @@ int main()
     cout<<"Welcome to VSCode."<<endl;
     cout<<"Enter a number"<<endl;
     cin>>n;
-    cout<<"The number entered is: "<<n<<endl;
+    cout<<"The number you entered is: "<<n<<endl;
     return 0;
 }
