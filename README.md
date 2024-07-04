@@ -1,4 +1,4 @@
 # Demo
-My first GIT Reop.
+My first GIT Repo.
 <br>
 Author - Kumar Ojaswi
